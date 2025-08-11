@@ -1,12 +1,20 @@
-# Quick Notes App Assignment
+# MyNotes App 
 
 <p align="center">
-  <img src="myNote.png" alt="Sign Up" width="200"/>
+  <img src="myNote.png" alt="AppLogo" width="200"/>
 </p>
 
 This repository contains  "MyNotes" Android application. The project is a simple yet polished note-taking application built entirely with modern Android development tools, including Kotlin and Jetpack Compose.
 
 The primary focus of this project was to deliver a high-quality, functional, and visually appealing application that provides a great user experience. Emphasis has been placed on creating a bug-free app with a clean UI and solid local database functionality.
+
+## 📥 Download
+
+You can download the latest version of the app from the official releases page.
+
+[**Download the latest `myNotes.apk` here**](https://github.com/AvinashKhichar/MyNotes/releases/latest)
+
+On the releases page, scroll down to the **Assets** section to find and download the `.apk` file.
 
 ## ✅ Features
 
