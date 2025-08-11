@@ -16,4 +16,4 @@ val NotesText = Color(0xFF4E342E)
 val NotesBackground = Color(0xFFFFF8E1)
 
 val NotesDarkBackground = Color(0xFF211A12)
-val NotesCreamText = Color(0xFFFFF8E1)
+val NotesCreamText = Color(0xFF4FF8E65)
